@@ -1,0 +1,24 @@
+.contsiner {
+  padding: 30px;
+}
+
+.author {
+  text-decoration: double;
+  font-weight: 700;
+  font-size: 1em;
+}
+
+.text {
+  margin-left: 15px;
+  size: 16px;
+  line-height: 25px;
+}
+
+.error_message {
+  height: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40;
+  color: #010101;
+}
